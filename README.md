@@ -1,4 +1,20 @@
+
+## Hello! 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-aguirre&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- 📖 Currently studying - TypeScript, Tailwind, Next.js
+- ⌨️ Currently working on - ValTrade, a fullstack mock e-commerce application written in JavaScript, Node.js, Express.js and Bootstrap
+- 🌎 Always open to new opportunities!
+
+### 💬 About Me
+I'm James, a web developer who specializes in JavaScript, React.js, Node.js, Express.js, HTML5, CSS3 and more but I'm open to learning anything!
+I've always had a passion for competetive games whether it's sports, boardgames, or videogames, to me, programming triggers that same passion;
+You can always find new ways to better yourself as a programmer, whether its writing clean code, applying new technologies or finding a creative
+solution to a problem that was once challenging. When I'm not writing code or studying I enjoy lifting weights and spending time with friends and family.
+
+### 📬 How to reach me
+- My LinkedIn - https://www.linkedin.com/in/james-aguirre/
+- Email - jamesaguirre98@gmail.com
+
 
 ### My Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -8,8 +24,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-
 
 ### Tools 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
