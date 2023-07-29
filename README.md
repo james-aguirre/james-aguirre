@@ -1,7 +1,7 @@
 
 ## 👋 Hello! 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-aguirre&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-- 📖 Currently studying - Golang, Next.js, Tailwind, TypeScript
+- 📖 Currently studying - Next.js, Tailwind, TypeScript, Go
 - ⌨️ Currently working on - ValTrade, a fullstack mock e-commerce application written in JavaScript(React), Node.js(Express.js) and CSS(Bootstrap)
 - 🌎 Always open to new opportunities!
 
