@@ -8,7 +8,7 @@
 ### 💬 About Me
 I'm James, a software engineer who specializes in web development but I'm open to learning everything!
 I've always had a passion for competetive games whether it's sports, boardgames, or videogames, to me, programming triggers that same passion;
-You can always find new ways to better yourself as a programmer, whether its writing cleaner code, applying new technologies or finding a creative solution to a problem that was once challenging. When I'm not writing code or studying I enjoy lifting weights and spending time with friends and family.😄
+You can always find new ways to better yourself as a programmer, whether its writing cleaner code, applying new technologies or finding a creative solution to a problem that was once challenging. When I'm not writing code or studying I enjoy lifting weights and spending time with friends and family.
 
 ### 📬 How to reach me
 - LinkedIn - https://www.linkedin.com/in/james-aguirre/
