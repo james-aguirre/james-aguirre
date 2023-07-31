@@ -1,14 +1,15 @@
 
 ## 👋 Hello! 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-aguirre&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-- 📖 Currently studying -  Tailwind, NextJS, TypeScript
-- ⌨️ Currently working on - MyAI, a fullstack web applications where users can generate AI built images via prompt, and share them with each other
-- 🌎 Always open to new opportunities!
 
 ### 💬 About Me
 I'm James, a software engineer who specializes in web development but I'm open to learning everything!
 I've always had a passion for competetive games whether it's sports, boardgames, or videogames, to me, programming triggers that same passion;
 You can always find new ways to better yourself as a programmer, whether its writing clean code, applying new technologies or finding creative solutions to challenging problems. When I'm not writing code or studying I enjoy lifting weights and spending time with friends and family.
+
+- 📖 Currently studying -  Tailwind, NextJS, TypeScript
+- ⌨️ Currently working on - MyAI, a fullstack web applications where users can generate AI built images via prompt, and share them with each other
+- 🌎 Always open to new opportunities!
 
 ### 📬 How to reach me
 - LinkedIn - https://www.linkedin.com/in/james-aguirre/
