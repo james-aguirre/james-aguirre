@@ -1,6 +1,6 @@
 
 ## 👋 Hello! 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-aguirre&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 💬 About Me
 I'm James, a software engineer who specializes in web development but I'm open to learning everything!
