@@ -8,7 +8,7 @@ I've always had a passion for competetive games whether it's sports, boardgames,
 You can always find new ways to better yourself as a programmer, whether its writing clean code, applying new technologies or finding creative solutions to challenging problems. When I'm not writing code or studying I enjoy lifting weights and spending time with friends and family.
 
 - 📖 Currently studying -  Tailwind, NextJS, TypeScript
-- ⌨️ Currently working on - MyAI, a fullstack web applications where users can generate AI built images via prompt, and share them with each other
+- ⌨️ Currently working on - Currently rebuilding AnimeList in nextjs13
 - 🌎 Always open to new opportunities!
 
 ### 📬 How to reach me
