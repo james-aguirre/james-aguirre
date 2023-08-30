@@ -1,15 +1,14 @@
-
-## 👋 Hello! 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-aguirre&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+![Banner image containing contact information](https://media.licdn.com/dms/image/D5616AQG6TJsB1i749A/profile-displaybackgroundimage-shrink_350_1400/0/1683735098656?e=1698883200&v=beta&t=sjyYEpbr4kvYib3efnrqLuFiPOtBmP64wn1sLoDWMe0)
 ### 💬 About Me
-I'm James, a software engineer who specializes in web development but I'm open to learning everything!
+I'm James, a software engineer who specializes in web development, but I'm open to learning anything!
 I've always had a passion for competetive games whether it's sports, boardgames, or videogames, to me, programming triggers that same passion;
-You can always find new ways to better yourself as a programmer, whether its writing clean code, applying new technologies or finding creative solutions to challenging problems. When I'm not writing code or studying I enjoy lifting weights and spending time with friends and family.
+You can always find new ways to better yourself as a programmer, whether its writing clean code, applying new technologies or finding creative solutions to challenging problems. When I'm not writing code, I enjoy working out and spending time with friends and family.
 
-- 📖 Currently studying -  Tailwind, NextJS, TypeScript
-- ⌨️ Currently working on - Currently rebuilding AnimeList in nextjs13
+- 📖 Currently learning -   TypeScript, Mongodb
+- ⌨️ Currently working on - rest-api-mongodb, A project feauturing Node, Express, TypeScript and MongoDB, to create a rest API to be used in future projects
 - 🌎 Always open to new opportunities!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-aguirre&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📬 How to reach me
 - LinkedIn - https://www.linkedin.com/in/james-aguirre/
