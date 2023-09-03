@@ -5,7 +5,7 @@ I've always had a passion for competetive games whether it's sports, boardgames,
 You can always find new ways to better yourself as a programmer, whether its writing clean code, applying new technologies or finding creative solutions to challenging problems. When I'm not writing code, I enjoy working out and spending time with friends and family.
 
 - 📖 Currently learning -   TypeScript, Mongodb
-- ⌨️ Currently working on - rest-api-mongodb, a project feauturing Node, Express, TypeScript and MongoDB, to create a rest API to be used in future projects
+- ⌨️ Currently working on - Rebuilding ValTrade in nextjs with typescript
 - 🌎 Always open to new opportunities!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-aguirre&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
