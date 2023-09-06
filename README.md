@@ -1,8 +1,8 @@
 ![Banner image containing contact information](https://media.licdn.com/dms/image/D5616AQG6TJsB1i749A/profile-displaybackgroundimage-shrink_350_1400/0/1683735098656?e=1698883200&v=beta&t=sjyYEpbr4kvYib3efnrqLuFiPOtBmP64wn1sLoDWMe0)
 ### 💬 About Me
-I'm James, a software engineer who specializes in web development, but I'm open to learning anything!
+I'm a full-stack web developer that specializes in JavaScript/React/CSS frameworks, but I'm open to learning anything.
 I've always had a passion for competetive games whether it's sports, boardgames, or videogames, to me, programming triggers that same passion;
-You can always find new ways to better yourself as a programmer, whether its refactoring code, applying new technologies or finding creative solutions to challenging problems. When I'm not writing code, I enjoy working out and spending time with friends and family.
+You can always find new ways to better yourself as a programmer, whether its refactoring old code, applying new technologies or enchancing code readability. When I'm not coding, I enjoy working out and spending time with friends and family.
 
 - 📖 Currently learning -   TypeScript, Next13
 - ⌨️ Currently working on - A spotify clone built with TypeScript, Next13, PostgreSQL and TailwindCSS
