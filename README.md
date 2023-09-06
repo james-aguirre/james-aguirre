@@ -4,8 +4,8 @@ I'm James, a software engineer who specializes in web development, but I'm open 
 I've always had a passion for competetive games whether it's sports, boardgames, or videogames, to me, programming triggers that same passion;
 You can always find new ways to better yourself as a programmer, whether its refactoring code, applying new technologies or finding creative solutions to challenging problems. When I'm not writing code, I enjoy working out and spending time with friends and family.
 
-- 📖 Currently learning -   TypeScript, Mongodb
-- ⌨️ Currently working on - Rebuilding ValTrade in nextjs with typescript
+- 📖 Currently learning -   TypeScript, Next13
+- ⌨️ Currently working on - A spotify clone built with TypeScript, Next13, PostgreSQL and TailwindCSS
 - 🌎 Always open to new opportunities!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-aguirre&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
