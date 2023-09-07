@@ -8,8 +8,9 @@ You can always find new ways to better yourself as a programmer, whether its ref
 - ⌨️ Currently working on - A spotify clone built with TypeScript, Next13, PostgreSQL and TailwindCSS
 - 🌎 Always open to new opportunities!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-aguirre&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-aguirre&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-aguirre&layout=compact&theme=dark)
 ### 📬 How to reach me
 - LinkedIn - https://www.linkedin.com/in/james-aguirre/
 - Email - jamesaguirre98@gmail.com
