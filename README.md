@@ -1,6 +1,6 @@
 ![Banner image containing contact information](https://media.licdn.com/dms/image/D5616AQG6TJsB1i749A/profile-displaybackgroundimage-shrink_350_1400/0/1683735098656?e=1698883200&v=beta&t=sjyYEpbr4kvYib3efnrqLuFiPOtBmP64wn1sLoDWMe0)
 ### 💬 About Me
-Hello! I'm a full-stack web developer with a specialty in JavaScript, React, Node and CSS frameworks, but I'm open to learning anything!
+Hello! I'm a full-stack web developer with a specialty in JavaScript, React, Node and CSS frameworks.
 I've always had a passion for competetive games whether it's sports, boardgames, or videogames, to me, programming triggers that same passion;
 You can always find new ways to better yourself as a programmer, whether its refactoring old code, applying newer technologies or enchancing code readability. In my free time I enjoy working out, cooking and spending time with friends and family.
 
