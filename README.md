@@ -1,8 +1,8 @@
 ![Banner image containing contact information](https://media.licdn.com/dms/image/D5616AQG6TJsB1i749A/profile-displaybackgroundimage-shrink_350_1400/0/1683735098656?e=1698883200&v=beta&t=sjyYEpbr4kvYib3efnrqLuFiPOtBmP64wn1sLoDWMe0)
 ### 💬 About Me
-Hello! I'm a full-stack SWE that specializes in web engineering.
+Hello! I'm a full-stack developer that specializes in web engineering.
 I've always had a passion for competitive games whether it's sports, boardgames, or videogames, to me, coding triggers that same passion;
-You can always find new ways to improve your code, and better yourself as a programmer. In my free time, I enjoy working out, watching sports(Ravens/Lakers/Angels/Ducks), cooking, and spending time with friends and family.
+You can always find new ways to improve your code, and better yourself as a programmer. In my free time, I enjoy working out, watching sports, cooking, and spending time with friends and family.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-aguirre&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
