@@ -1,4 +1,5 @@
-![Banner image containing contact information]([https://media.licdn.com/dms/image/D5616AQG6TJsB1i749A/profile-displaybackgroundimage-shrink_350_1400/0/1683735098656?](https://media.licdn.com/dms/image/D5616AQG6TJsB1i749A/profile-displaybackgroundimage-shrink_350_1400/0/1683735099037?e=1704931200&v=beta&t=DSLUO5KmSdPAIm0G2eXoTNj2tcSXTHaAKDniqtEZI04)e=1698883200&v=beta&t=sjyYEpbr4kvYib3efnrqLuFiPOtBmP64wn1sLoDWMe0)
+![Banner image containing contact information](linkedin-banner.jpeg
+)
 ### 💬 About Me
 Hello! I'm a full-stack developer that specializes in web engineering.
 I've always had a passion for competitive games whether it's sports, boardgames, or videogames, to me, coding triggers that same passion;
