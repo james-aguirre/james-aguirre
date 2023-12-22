@@ -1,7 +1,6 @@
 ![Banner image containing contact information](linkedin-banner.jpeg
 )
 ### 💬 About Me
-Hello! I'm a full-stack developer that specializes in web engineering.
 I've always had a passion for competitive games whether it's sports, boardgames, or videogames, to me, coding triggers that same passion;
 You can always find new ways to improve your code, and better yourself as a programmer. In my free time, I enjoy working out, watching sports, cooking, and spending time with friends and family.
 
@@ -11,12 +10,13 @@ You can always find new ways to improve your code, and better yourself as a prog
 
 
 ### 📬 How to reach me
-- LinkedIn - https://www.linkedin.com/in/james-aguirre/
+- Linkedin - https://www.linkedin.com/in/james-aguirre/
 - Email - jamesaguirre98@gmail.com
 - Phone - +1 (714) 757-0628
 
 ### My Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -27,6 +27,8 @@ You can always find new ways to improve your code, and better yourself as a prog
 
 ### Tools 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
