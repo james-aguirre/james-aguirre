@@ -12,7 +12,6 @@ You can always find new ways to improve your code, and better yourself as a prog
 ### 📬 How to reach me
 - Linkedin - https://www.linkedin.com/in/james-aguirre/
 - Email - jamesaguirre98@gmail.com
-- Phone - +1 (714) 757-0628
 
 ### My Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
