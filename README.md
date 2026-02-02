@@ -3,11 +3,11 @@
 ### 💬 About Me
   I've always had a passion for competitive games whether it's sports, boardgames, or videogames, to me, coding triggers that same passion;
 You can always find new ways to improve your code, and better yourself as a programmer. In my free time, I enjoy working out, watching sports, cooking, and spending time with friends and family.
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-aguirre&hide=stars,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight) 
+-->
 
 ### 📬 How to reach me
 - Linkedin - https://www.linkedin.com/in/james-aguirre/
